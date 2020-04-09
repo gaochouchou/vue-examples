@@ -2,8 +2,10 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
-      For a guide and recipes on how to configure / customize this project,<br />
-      check out the
+      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Beatae, enim.
+      Modi accusamus fugit asperiores quas maiores placeat, dolores provident
+      libero. Velit dolore exercitationem hic dolorum sequi, ut a unde
+      similique.
       <a href="https://cli.vuejs.org" target="_blank" rel="noopener"
         >vue-cli documentation</a
       >.
